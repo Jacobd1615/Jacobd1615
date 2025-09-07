@@ -4,7 +4,9 @@
 
 **📍 Pacific Northwest | 📧 Jacobd.pnw@gmail.com | 📱 (541)-848-8468**
 
-Certified backend developer with full-stack capabilities who thrives on solving complex problems through clean, scalable code. I specialize in building robust APIs and data-driven systems that can handle real-world scale and complexity. What drives me is creating technology that genuinely improves people's lives - whether that's helping junior developers learn faster, optimizing systems for better performance, or tackling humanitarian challenges through innovative solutions.
+Hi, I'm Jacob! Backend Developer and OSU Computer Science graduate passionate about building scalable systems with Python and advancing MLOps for data-driven solutions. I excel in developing efficient APIs, optimizing databases, and exploring cutting-edge technologies like Rust, Go, and R to create high-performance backends. My full-stack experience enhances my ability to deliver end-to-end solutions that make a real impact.
+
+When not coding, you'll find me strategizing over chess, dominating on the lacrosse field, or diving deep into the latest DevOps tools. I'm always eager to join innovative teams and build robust backend systems that drive meaningful change.
 
 ---
 
@@ -45,24 +47,49 @@ Python        ████████████████████  (Fas
 SQL           ██████████████████    (PostgreSQL, MySQL, MongoDB)
 JavaScript    ███████████████       (Node.js, React, TypeScript)
 Java          ██████████████        (Spring Boot)
-Go            ████████████          
+Rust          ████████████          (Exploring high-performance backends)
+Go            ████████████          (Microservices & performance)
+R             ███████████           (Data analysis & MLOps)
 HTML5/CSS3    ██████████████████    (Bootstrap, Tailwind)
 ```
 
-**Backend & Database:**
+**Backend & MLOps:**
 - **APIs**: FastAPI, Flask, RESTful design, Swagger/OpenAPI, JWT, OAuth2
-- **Databases**: PostgreSQL, MySQL, MongoDB, SQLite with query optimization
-- **ORM**: SQLAlchemy, database design, microservices architecture
+- **Databases**: PostgreSQL, MySQL, MongoDB with performance optimization (30% query improvements)
+- **MLOps**: Data pipelines, Apache Kafka, RabbitMQ, data-driven solutions
+- **Architecture**: Microservices, system design, database optimization
 
-**DevOps & Security:**
+**DevOps & Infrastructure:**
 - **Containerization**: Docker, CI/CD pipelines, GitHub Actions
-- **Security**: JWT authentication, OAuth2, BCrypt hashing, AES-256 encryption
-- **Testing**: Unit/Integration testing, load testing, contract testing
-- **Monitoring**: Performance optimization, observability, system architecture
+- **Security**: JWT authentication, OAuth2, KYC systems, fraud detection APIs
+- **Testing**: Unit/Integration testing, automated testing frameworks
+- **Methodologies**: Agile/Scrum, performance optimization, system architecture
 
-**Certifications:**
-- 🎓 **Coding Temple**: Full Stack Development Certificate (2025)
-- 📊 **Business**: Associate of Arts, General Business (COCC)
+**Certifications & Education:**
+- 🎓 **Oregon State University-Cascades**: Bachelor's Degree, Computer Science (2023-2025)
+- 🏆 **Coding Temple**: Full Stack Development Certification (Feb-Sep 2025)
+- 📊 **Central Oregon Community College**: Associate's Degree, General Business (2018-2020)
+- 🏅 **DECA Competitor**: Marketing and business competition experience
+
+---
+
+## 🎓 Education & Professional Development
+
+**🏛️ Oregon State University-Cascades** | *Computer Science (Senior)* | 2023-2025
+- Comprehensive computer science curriculum covering algorithms, data structures, and software engineering
+- Advanced coursework in Linux, Windows, software development, and system integration
+- Leadership and team collaboration through technical projects
+
+**💻 Coding Temple** | *Full Stack Development Certification* | Feb-Sep 2025
+- Intensive software development bootcamp with hands-on industry training
+- **Technical Mastery**: HTML5, CSS3, Bootstrap, JavaScript, TypeScript, Python, React, Java, MySQL
+- **Project Portfolio**: Built and deployed multiple web applications with full-stack architecture
+- **Industry Standards**: Agile development, version control, debugging, and responsive design
+
+**📈 Central Oregon Community College** | *Associate's Degree, General Business* | 2018-2020
+- Business operations, management, marketing, and communication foundations
+- **DECA Competition**: National marketing and business case study competitions
+- **Leadership Experience**: College lacrosse team member, balancing athletics with academics
 
 ---
 
@@ -98,11 +125,16 @@ HTML5/CSS3    ██████████████████    (Bootstr
 ## 🤝 Let's Connect!
 
 I'm always interested in discussing:
-- 🌍 **Humanitarian Technology** and social impact projects
-- 🔐 **Security Engineering** and cryptographic implementations  
-- 🤖 **AI/ML Applications** in real-world systems
-- 📊 **Database Design** and performance optimization
-- 💼 **Career Opportunities** in tech and government sectors
+- 🤖 **MLOps & Data Pipelines** for scalable data-driven solutions
+- 🔐 **Backend Architecture** and high-performance system design
+- 🚀 **Emerging Technologies** like Rust, Go, and modern DevOps tools
+- 📊 **Database Optimization** and performance engineering
+- 💼 **Career Opportunities** in backend development and MLOps
+
+**🎯 Beyond Coding:**
+- ♟️ **Chess Strategy**: Love the mental challenge and strategic thinking
+- 🥍 **Lacrosse**: Competitive sports and team leadership
+- 🛠️ **DevOps Exploration**: Always diving into the latest tools and technologies
 
 **📫 How to reach me:**
 - 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/jacobdyson) 
