@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Welcome to Jacobd1615's GitHub!
 
-<!--
-**Jacobd1615/Jacobd1615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚩 Featured Projects (Pinned)
 
-Here are some ideas to get you started:
+[![Library-DataBase](https://github-readme-stats.vercel.app/api/pin/?username=Jacobd1615&repo=Library-DataBase)](https://github.com/Jacobd1615/Library-DataBase)
+[![My-professional-resume](https://github-readme-stats.vercel.app/api/pin/?username=Jacobd1615&repo=My-professional-resume)](https://github.com/Jacobd1615/My-professional-resume)
+[![Predator-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Jacobd1615&repo=Predator-Tracker)](https://github.com/Jacobd1615/Predator-Tracker)
+[![LandLank-LL-](https://github-readme-stats.vercel.app/api/pin/?username=Jacobd1615&repo=LandLank-LL-)](https://github.com/Jacobd1615/LandLank-LL-)
+[![Password-Generator](https://github-readme-stats.vercel.app/api/pin/?username=Jacobd1615&repo=Password-Generator)](https://github.com/Jacobd1615/Password-Generator)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Feel free to explore my other work or connect!
+
+## About Me
+* Software developer passionate about open source
+* [LinkedIn](https://linkedin.com/in/yourprofile) • [Personal Website](https://yourwebsite.com)
+
+## 📫 How to reach me
+* Email: your-email@example.com
