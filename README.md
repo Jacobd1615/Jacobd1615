@@ -93,12 +93,6 @@ HTML5/CSS3    ██████████████████    (Bootstr
 
 ---
 
-## 📈 GitHub Stats
-
-![Jacob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jacobd1615&show_icons=true&theme=radical&count_private=true)
-
----
-
 ## 🏆 Professional Experience & Achievements
 
 **💼 Software Engineer Trainee - Coding Temple** *(02/2025 - Present)*
